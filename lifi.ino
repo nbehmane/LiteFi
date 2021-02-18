@@ -1,8 +1,6 @@
 /*         Project Lite-Fi
  *       By Nima Behmanesh
  *          Version 1.0.4
- *         Senior Poject 2018
- *       Casa Roble Highschool
  *
  */
 
